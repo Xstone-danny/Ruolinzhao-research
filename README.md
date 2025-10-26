@@ -5,7 +5,7 @@ It includes project reports, posters, and presentation materials from my **UROP*
 
 ---
 
-## 🧬 UROP – Super-Resolution Microscopy for LDL Transport (2025)
+## UROP – Super-Resolution Microscopy for LDL Transport (2025)
 **Supervisor:** Prof. Peter Weinberg  
 **Focus:** Development of correlation-based PSF localisation and microbubble tracking methods to improve the efficiency and robustness of Ultrasound Localization Microscopy (ULM) for studying LDL transport.  
 **Includes:**  
@@ -15,7 +15,7 @@ It includes project reports, posters, and presentation materials from my **UROP*
 
 ---
 
-## ⚙️ Year 3 Group Project – Adaptive Denoising for PSF Localisation (2024)
+## Year 3 Group Project – Adaptive Denoising for PSF Localisation (2024)
 **Focus:** Implementation and analysis of adaptive denoising methods to enhance PSF localisation accuracy in microscopy.  
 **Includes:**  
 - Project report (PDF)  
@@ -26,7 +26,7 @@ It includes project reports, posters, and presentation materials from my **UROP*
 
 ---
 
-## 📊 Year 2 Group Project – Digital Biosignal Processing (2023)
+## Year 2 Group Project – Digital Biosignal Processing (2023)
 **Focus:** Analysis and feature extraction from biomedical signals using digital filtering, convolution, and difference equation methods.  
 **Includes:**  
 - Project report (PDF)  
