@@ -30,7 +30,7 @@ It includes project reports, posters, and presentation materials from my **UROP*
 **Focus:** Analysis and feature extraction from biomedical signals using digital filtering, convolution, and difference equation methods.  
 **Includes:**  
 - Project report (PDF)  
-**Folder:** [`Year2_BioSignalProcessing_Project`](./Year2_BioSignalProcessing_Project)
+**Folder:** [`Year2_AAC_Project`](./Year2_AAC_Project)
 
 ---
 
